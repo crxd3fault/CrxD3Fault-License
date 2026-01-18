@@ -1,2 +1,7 @@
-# CrxD3Fault-License
-Custom license for CrxD3Fault texture pack. Free for personal use, no modification or redistribution allowed, credit the creator if shared.
+© 2026 CrxD3Fault. All Rights Reserved.
+
+This texture pack, CrxD3Fault, is free to use for personal, non-commercial Minecraft gameplay.
+You may enjoy and share it, but you **may not modify, redistribute, or sell** this pack in any form without permission.
+
+If you share this pack online, please give credit to the original creator: CrxD3Fault.
+By using this pack, you agree to respect these terms and provide proper attribution.
